@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obsdn\\source\\repos\\HookDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A2EFEF-E802-486F-94DF-12B432E3C512}|HookDLL\\HookDLL.vcxproj|C:\\Users\\obsdn\\source\\repos\\HookDLL\\HookDLL\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88A2EFEF-E802-486F-94DF-12B432E3C512}|HookDLL\\HookDLL.vcxproj|solutionrelative:HookDLL\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\obsdn\\source\\repos\\HookDLL\\HookDLL\\dllmain.cpp",
+              "RelativeDocumentMoniker": "HookDLL\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\obsdn\\source\\repos\\HookDLL\\HookDLL\\dllmain.cpp",
+              "RelativeToolTip": "HookDLL\\dllmain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T01:44:42.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
